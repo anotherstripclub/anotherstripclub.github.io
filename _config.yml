@@ -2,45 +2,21 @@ url: https://anotherstripclub.com
 baseurl: /
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: THE STRIP CLUB
+email: anotherstripclub@gmail.com
+description: a late night fried chicken strips that will tease the tastebuds.
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
+- name: Guy Persons
   pic: 1
-  position: Lead Designer
+  position: Vice President of Stripology
   social:
     - title: twitter
       url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: #facebook.com/anotherstripclub
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
