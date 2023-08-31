@@ -870,3 +870,7 @@ body {
     display: flex;
     justify-content: center;
 }
+
+.menu-item {
+    width: 64%;
+}
