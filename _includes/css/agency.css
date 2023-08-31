@@ -176,8 +176,14 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-brand {
-    font-family: "Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive;
+    font-family: "Neonderthaw","Helvetica Neue",Helvetica,Arial,cursive;
     color: #{{ site.data.template.color.primary }};
+    text-shadow:
+            0 0 7px #ff8bc5,
+            0 0 10px #ff8bc5,
+            0 0 21px #ff8bc5,
+            0 0 42px #{{ site.data.template.color.primary }},
+            0 0 82px #{{ site.data.template.color.primary }};
 }
 
 .navbar-default .navbar-brand:hover,
@@ -261,7 +267,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
-        font-size: 1.5em;
+        font-size: 2.5em;
     }
 }
 
